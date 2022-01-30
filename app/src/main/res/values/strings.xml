@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beautiful Interfaces</string>
+    <string name="android_logo">android logo</string>
+    <string name="email_address">Email Address</string>
+</resources>
